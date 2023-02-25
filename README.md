@@ -2,21 +2,21 @@
 
 -> Link : https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
 
-      01. Array                   : 36
-      02. Matrix                  : 10
-      03. String                  : 43
-      04. Searching & Sorting     : 36
-      05. LinkedList              : 36
-      06. Binary Trees            : 35
-      07. Binary Search Trees     : 22
-      08. Greedy                  : 35
-      09. Backtracking            : 19
-      10. Stack & Queues          : 38
-      11. Heap                    : 18
-      12. Graph                   : 44
-      13. Trie                    : 06
-      14. Dynamic Programming     : 60
-      15. Bit Manipulation        : 10
+      01. Array                   → 36
+      02. Matrix                  → 10
+      03. String                  → 43
+      04. Searching & Sorting     → 36
+      05. LinkedList              → 36
+      06. Binary Trees            → 35
+      07. Binary Search Trees     → 22
+      08. Greedy                  → 35
+      09. Backtracking            → 19
+      10. Stack & Queues          → 38
+      11. Heap                    → 18
+      12. Graph                   → 44
+      13. Trie                    → 06
+      14. Dynamic Programming     → 60
+      15. Bit Manipulation        → 10
 
 # 2_Striver SDE Sheet
 
@@ -47,19 +47,19 @@
     Medium ~ Ideal Time: 15-20 mins
     Hard   ~ Ideal Time: 40-60 mins (Based on Qs) | 88
  
-       01. Arrays                : 26 
-       02. String                : 22
-       03. 2D Arrays             : 10
-       04. Searching & Sorting   : 23
-       05. Backtracking          : 21
-       06. Linked List           : 26
-       07. Stack & Queue         : 27
-       08. Greedy                : 22
-       09. Binary Trees          : 33
-       10. Binary Search Trees   : 21
-       11. Heaps & Hashing       : 28
-       12. Graphs                : 40
-       13. Tries                 : 06
-       14. DP                    : 54
-       15. Bit Manipulation      : 10
-       16. Segment Trees         : 06
+       01. Arrays                  → 26 
+       02. String                  → 22
+       03. 2D Arrays               → 10
+       04. Searching & Sorting     → 23
+       05. Backtracking            → 21
+       06. Linked List             → 26
+       07. Stack & Queue           → 27
+       08. Greedy                  → 22
+       09. Binary Trees            → 33
+       10. Binary Search Trees     → 21
+       11. Heaps & Hashing         → 28
+       12. Graphs                  → 40
+       13. Tries                   → 06
+       14. DP                      → 54
+       15. Bit Manipulation        → 10
+       16. Segment Trees           → 06
