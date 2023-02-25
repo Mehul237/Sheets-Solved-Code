@@ -47,19 +47,19 @@
     Medium ~ Ideal Time: 15-20 mins
     Hard   ~ Ideal Time: 40-60 mins (Based on Qs) | 88
  
-       01. Arrays : 26 ( E-6, M-17, H-3)
-       02. String : 22
-       03. 2D Arrays : 10
-       04. Searching & Sorting : 23
-       05. Backtracking : 21
-       06. Linked List : 26
-       07. Stack & Queue : 27
-       08. Greedy : 22
-       09. Binary Trees : 33
-       10. Binary Search Trees : 21
-       11. Heaps & Hashing : 28
-       12. Graphs : 40
-       13. Tries : 06
-       14. DP : 54
-       15. Bit Manipulation : 10
-       16. Segment Trees : 06
+       01. Arrays                : 26 
+       02. String                : 22
+       03. 2D Arrays             : 10
+       04. Searching & Sorting   : 23
+       05. Backtracking          : 21
+       06. Linked List           : 26
+       07. Stack & Queue         : 27
+       08. Greedy                : 22
+       09. Binary Trees          : 33
+       10. Binary Search Trees   : 21
+       11. Heaps & Hashing       : 28
+       12. Graphs                : 40
+       13. Tries                 : 06
+       14. DP                    : 54
+       15. Bit Manipulation      : 10
+       16. Segment Trees         : 06
