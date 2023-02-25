@@ -1,4 +1,4 @@
-# DSA Cracker Sheet by Love Babbar
+# 1_DSA Cracker Sheet by Love Babbar
 
 -> Link : https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
 
@@ -18,7 +18,7 @@
       14. Dynamic Programming     : 60
       15. Bit Manipulation        : 10
 
-# Striver SDE Sheet
+# 2_Striver SDE Sheet
 
 -> Link : https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
 
@@ -37,7 +37,7 @@
       13: DP                          → 15
       14: Trie                        → 07
       
-  # Apna College Internship + PPO Sheet
+  # 3_Apna College Internship + PPO Sheet
   
  -> Link : https://docs.google.com/spreadsheets/d/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag/edit#gid=0
  
