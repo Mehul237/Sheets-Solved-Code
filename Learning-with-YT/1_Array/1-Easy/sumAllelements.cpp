@@ -43,7 +43,7 @@ void solve()
     cin>>arr[i];
   }
  
-    cout <<"\nTrick_1-Sum:"<< accumulate(arr, arr + n, 0);
+    cout <<"\nTrick_1-Sum: "<< accumulate(arr, arr + n, 0);
    
   // For-loop for sum of all element until the arr not end!
   for(int i=0; i<n; i++) {
@@ -51,7 +51,7 @@ void solve()
   }
   cout<<nline;
 
-  cout<<"Trick_2-Sum:"<<sum;
+  cout<<"Trick_2-Sum: "<<sum;
 
 } 
 
