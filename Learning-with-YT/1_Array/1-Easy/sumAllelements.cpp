@@ -19,7 +19,7 @@ You are the one that is responsible for who you are!                            
  #define nline "\n"
 
  /*
- --------------------------------------------------------------------------------
+ ----------------------------------------------------------------------------------------------------------------------
  1. Sum of all elements in array                                                +
                                                                                 +
  STEP-1: Taking input 'n' and sum=0 initialize and 1-for loop for Input         +
@@ -28,7 +28,9 @@ You are the one that is responsible for who you are!                            
  Complexity:
   -> Time: 0(n)
   -> Space: 0(n)
- --------------------------------------------------------------------------------
+  
+  Article link ->  https://www.geeksforgeeks.org/how-to-find-the-sum-of-elements-of-an-array-using-stl-in-c/?ref=rp
+ ----------------------------------------------------------------------------------------------------------------------
  */
 
 void solve() 
@@ -40,12 +42,16 @@ void solve()
   for(int i=0; i<n; i++) {
     cin>>arr[i];
   }
+ 
+    cout <<"\nTrick_1-Sum:"<< accumulate(arr, arr + n, 0);
    
   // For-loop for sum of all element until the arr not end!
   for(int i=0; i<n; i++) {
     sum += arr[i];
   }
-  cout<<sum;
+  cout<<nline;
+
+  cout<<"Trick_2-Sum:"<<sum;
 
 } 
 
