@@ -1,2 +1,4 @@
 
     G-Drive College Wallah notes Link ->  https://drive.google.com/drive/u/1/folders/1IGV6hb2WtiohVuUy9A3F0SSc4v_Uif1A
+    
+Vector: https://www.codespeedy.com/take-user-input-into-vector-in-cpp/#:~:text=The%20basic%20way%20is%20if,below%20to%20understand%20it%20better.&text=Example%20code%202%20%3A,as%20much%20as%20they%20want.
