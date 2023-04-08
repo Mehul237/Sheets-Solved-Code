@@ -1,1 +1,12 @@
 
+Problem JPG Questions Statement
+
+  01 -> Understand recursion by print something N-times
+  02 -> Print name N-times 
+  03 -> Print 1 to N 
+  04 -> Print N to 1
+  05 -> Sum of First N numbers
+  06 -> Factorial of N numbers
+  07 -> Reverse an Array
+  08 -> Check if a String Palindrome or not
+  09 -> Fibonnaci numbers
