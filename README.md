@@ -1,6 +1,6 @@
 # 1_DSA Cracker Sheet by Love Babbar
 
- ```Link``` : https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
+ ```Sheet-Link``` : https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
 
       01. Array                   → 36
       02. Matrix                  → 10
@@ -20,7 +20,7 @@
 
 # 2_Striver SDE Sheet
 
- ```Link``` : https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
+ ```Website-Link``` : https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
 
       01: Array                       → 24
       02: Linked List                 → 18
@@ -39,7 +39,9 @@
       
   # 3_Apna College Internship + PPO Sheet
   
- ```Link``` : https://docs.google.com/spreadsheets/d/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag/edit#gid=0
+ ```Sheet-Link``` : https://docs.google.com/spreadsheets/d/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag/edit#gid=0
+ 
+  ```Pdf-Link``` : https://drive.google.com/file/d/1pffdzdpxvcyUSWrBPeQLrhRqj6_gpDBm/view
  
  ```💡 5-Question each Day!```
  
