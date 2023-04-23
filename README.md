@@ -68,9 +68,12 @@
        15. Bit Manipulation        → 10
        16. Segment Trees           → 06
        
- # 4_Arsh Goyel SDE Sheet
+  # 4_Nishant Chahar SDE Sheet
+  ```Link``` : https://drive.google.com/file/d/1o0MjffvoCjhTIN096bsxxeADFV1YUL52/view
+       
+ # 5_Arsh Goyel SDE Sheet
   ```Link``` : https://docs.google.com/spreadsheets/d/1MGVBJ8HkRbCnU6EQASjJKCqQE8BWng4qgL0n3vCVOxE/edit#gid=0
   
- # 5_Fraz Sheet
+ # 6_Fraz Sheet
      00. Beginner's DSA Sheet
      01. Leetcode DSA Sheet
