@@ -77,3 +77,10 @@
  # 6_Fraz Sheet
      00. Beginner's DSA Sheet
      01. Leetcode DSA Sheet
+     
+ # 7_Rohit Negi
+  ```Puzzle Sheet``` : https://docs.google.com/spreadsheets/d/1zQs62-IO43qGzf83FIKtuxTUBDGI3d4qLXpO426z-vg/edit#gid=0
+  
+  ```DSA Sheet ``` : https://docs.google.com/spreadsheets/d/1Pud-vdSPhhljScynHvTUGRE5yxEV6dCMb45rOwoSt_Q/edit#gid=0
+     
+     
