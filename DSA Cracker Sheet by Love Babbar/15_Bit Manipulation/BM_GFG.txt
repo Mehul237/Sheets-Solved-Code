@@ -1,0 +1,21 @@
+
+Bit Manipulation
+
+ 1 - https://www.geeksforgeeks.org/what-is-bit-manipulation/
+
+ 2 - GFG Bit magic (Important facts)
+
+ 3 - Codehelp Notes
+
+ 4 - Important facts: https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp/
+
+
+-- https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp/
+
+-- https://www.geeksforgeeks.org/bit-tricks-competitive-programming/
+
+-- https://www.geeksforgeeks.org/bitwise-hacks-for-competitive-programming/
+
+-- https://www.geeksforgeeks.org/bits-manipulation-important-tactics/
+
+-- https://drive.google.com/drive/u/1/folders/1rtwr0qSJmSosoZdRaiJIG6T6KLk7h2Lw
