@@ -2,6 +2,58 @@
 using namespace std;
 
 
+
+/*
+------------------------------------------------------------------------------------------------------------
+
+----------
+Approach +
+----------
+
+In short overview of BFS, 
+
+G3 - - Level wise traversal
+
+ 1 - Initial conf. is starting node.
+      - - Marked is vis
+      - - Push into queue
+      - - pop out the node V
+      - - push into solution vector
+
+2 - We are Traversing this node 
+
+3 -  unvis adj node vis next and push into queue
+      - - adj list neighbors accessed from adj list
+
+3 - Perform 2 and 3 until the queue becomes empty
+     - - this way you can easily traverse all the nodes in the graph.
+
+
+
+-------------
+Explanation +
+-------------
+
+Initial Configuration:
+ 1 - Queue data structure: 
+      - - follows FIFO, and will always contain the starting.
+ 2 - Visited array: 
+      - - an array initialized to 0
+      
+Step-1: In BFS, 
+        - we start with a “starting” node, mark it as visited, and push it into the queue data structure
+Step-2: In every iteration, 
+        - We pop out the node ‘v’ and put it in the solution vector, as we are traversing this node
+Step-3: All the unvisited adjacent nodes from ‘v’ are visited next and are pushed into the queue. 
+        The list of adjacent neighbors of the node can be accessed from the adjacency list.
+Step-4: Repeat steps 2 and 3 until the queue becomes empty, 
+        and this way you can easily traverse all the nodes in the graph.
+        
+------------------------------------------------------------------------------------------------------------
+*/
+
+
+
 class Solution {
   public:
   
@@ -44,6 +96,7 @@ class Solution {
         return bfs;
     }
 };
+
 
 
 
