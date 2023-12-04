@@ -1,4 +1,5 @@
 
+
 /*
 ------------------------------------------------------------------------
 Ex: 
@@ -11,7 +12,6 @@ Explanation:
   B  ->  1 0 1 0 0 
 --------------------
 A ^ B :  1 1 1 1 0   (Convert A to B)
-
 
 
  Step-01: Xor A and B
@@ -39,7 +39,6 @@ class Solution {
               cnt++;
               xorAandB >>= 1;
         }
-        return cnt++;
-        
+        return cnt++;        
     }
 };
