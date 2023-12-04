@@ -1,5 +1,7 @@
+
+
 /*
-------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------
 Intuition:
  If a number N is a power of 2, 
   - then the bitwise AND of N and N-1 will be 0. 
@@ -9,7 +11,10 @@ Intuition:
  if any of these two conditions is true.
 
 
- CP Tricks: https://www.geeksforgeeks.org/bit-tricks-competitive-programming/
+ CP Tricks: 
+   - https://www.geeksforgeeks.org/bit-tricks-competitive-programming/
+
+   - https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/tutorial/
 
  (1) x && !(x & x-1)
      - Checking if given 32-bit integer is power of 2
@@ -32,7 +37,7 @@ x – 1 = 15     (00001111)
 x & (x-1) = 0 
 so, 16 is power of 2
  
-------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------
 */
 
 
@@ -42,8 +47,8 @@ so, 16 is power of 2
 bool isPowerOfTwo(int x) 
 {  
   
-  
-	  return x && (!(x & (x - 1)));
+    // x will check if x == 0 and !(x & (x - 1)) will check if x is a power of 2 or not
+    return x && (!(x & (x - 1)));
 
   
   /*    Alternate wrting style for easy to understand
