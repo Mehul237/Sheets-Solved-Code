@@ -1,4 +1,5 @@
 
+
 // Brite force approach: It give the TLE because Q solution in O(LogN) time 
 
 class Solution {
