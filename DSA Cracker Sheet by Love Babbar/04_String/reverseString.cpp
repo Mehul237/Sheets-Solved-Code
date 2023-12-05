@@ -1,7 +1,38 @@
+// Method-0
+      
+// TC: O(N), SC(N) because we need to store the answer
+
+
+class Solution
+{
+    public:
+    string reverseWord(string str) {
+
+        string rev = "";
+        
+        //iterating over the characters of the string in reverse.
+        for(int i = str.size()-1; i>=0; i--) {
+            
+            //appending the current character to the reversed string.
+            rev += str[i];
+        }
+        
+        //returning the reversed string.
+        return rev;
+      
+    }
+};
+
+
+
+
+
+
+
 
 /*
 ----------------------------------------
-  Method-0: Using in-built fn reverse
+  Method-1: Using in-built fn reverse
 
 Time Complexity: O(n)
 Auxiliary Space: O(1
@@ -27,7 +58,7 @@ public:
 
 /*
 ----------------------------------------------------
-Method - 01: Two pointer (Implement in-built reverse fn)
+Method - 02: Two pointer (Implement in-built reverse fn)
 
 Time Complexity: O(n)
   - Since we need to traverse the complete string
