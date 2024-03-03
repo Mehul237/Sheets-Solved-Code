@@ -4,12 +4,14 @@ using namespace std;
 
 // Date: 18-11-2023, Next day Ind vs Aus CWC-2023 Final in Ahmedabad
 
+// 1. Using arithmetic expression: +, -
 void swap1(int a, int b) {
   a = a + b;
   b = a - b;
   a = a - b;
   cout << a <<' '<< b << '\n';
 }
+
 
 // 2. Using a temporary variable
 void swap2(int a, int b) {
@@ -19,16 +21,14 @@ void swap2(int a, int b) {
   cout << a <<' '<< b << '\n';
 }
 
-// 1. Using bitwise XOR
-/*  
-------------------------------
-void swap(int& a, int& b) {
+
+// 3. Using bitwise XOR  
+void swap(int &a, int &b) {
     a = a ^ b;
     b = a ^ b;
     a = a ^ b;
 }
-------------------------------
-*/
+
 
 void swap3(int a, int b) {
   int x = a ^ b;
