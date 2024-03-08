@@ -1,3 +1,6 @@
+[Similar concept -- 3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/description/?envType=daily-question&envId=2024-03-08)
+
+
 ## Q-3: Find Duplicate characters in a string
 
 ## Brute-force approach
